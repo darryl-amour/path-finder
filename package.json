@@ -1,0 +1,30 @@
+{
+  "name": "path-finder",
+  "version": "1.0.0",
+  "description": "An implementation of the A* search algorithm in JavaScript",
+  "main": "path-finder.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darryl-amour/path-finder.git"
+  },
+  "keywords": [
+    "path",
+    "finder",
+    "A*",
+    "search",
+    "algorithm",
+    "JavaScript"
+  ],
+  "author": "Darryl Amour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darryl-amour/path-finder/issues"
+  },
+  "homepage": "https://github.com/darryl-amour/path-finder#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
